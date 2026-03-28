@@ -37,7 +37,7 @@ requirements.txt – Project dependencies
 
 Clone the repository:
 
-git clone https://github.com/YOURUSERNAME/cybersafe-password-manager
+git clone https://github.com/bhavin-01/cybersafe-password-manager.git
 
 Go to project directory:
 
